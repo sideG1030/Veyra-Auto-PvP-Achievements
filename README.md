@@ -12,3 +12,9 @@ Tampermonkey userscript for automating Veyra PvP battles to get Achievements.
 
       •You can specify how many times to use the selected skill. Once the scrit uses the selected skill that amount of times, it will stop Consecutive battles after finishing the current battle;
       •If you run out of PvP tokens, the script will remain idle until server hour passes, after which the scrip auto-resumes.
+
+# 2.0.0 Update
+•Added Custom Pattern List;
+
+        •If the Pattern ends, it will repeat itself;
+        •If a Skill cannot be used, it will be skipped and Slash will be used instead.
