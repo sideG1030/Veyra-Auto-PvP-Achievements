@@ -1,11 +1,15 @@
 // ==UserScript==
-// @name         Veryra - Auto PvP For Achievements
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @name         Veyra - Auto PvP For Achievements
+// @namespace    https://github.com/sideG1030/
+// @version      1.0.0
 // @description  Automates PvP attacks for achievements
 // @author       sideG
 // @match        *://*/pvp.php*
 // @match        *://*/pvp_battle.php*
+
+// @updateURL    https://raw.githubusercontent.com/sideG1030/Veyra-Auto-PvP-Achievements/main/veyra-auto-pvp-achievements.user.js
+// @downloadURL  https://raw.githubusercontent.com/sideG1030/Veyra-Auto-PvP-Achievements/main/veyra-auto-pvp-achievements.user.js
+
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-idle
